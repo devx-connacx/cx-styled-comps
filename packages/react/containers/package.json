@@ -1,0 +1,11 @@
+{
+    "name": "@cx-styled/react-containers",
+    "version": "1.0.0",
+    "description": "Commonly used styled react containers such as div, card and so on",
+    "main": "src/index.js",
+    "repository": "https://github.com/devx-connacx/cx-styled-comps.git",
+    "license": "MIT",
+    "dependencies": {
+        "styled-components": "5.2.1"
+    }
+}

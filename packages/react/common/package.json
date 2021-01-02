@@ -1,0 +1,11 @@
+{
+    "name": "@cx-styled/react-common",
+    "version": "1.0.0",
+    "description": "Common types and util functions shared among @cx-styled components",
+    "main": "src/index.ts",
+    "repository": "https://github.com/devx-connacx/cx-styled-comps.git",
+    "license": "MIT",
+    "dependencies": {
+        "lodash": "4.17.20"
+    }
+}
