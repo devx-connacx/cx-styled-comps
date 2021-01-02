@@ -6,9 +6,11 @@ import styled from 'styled-components';
 export const CxStyButton = styled.button`
     text-transform: none;
     font-weight: 700;
+    background: blue;
+    color: black;
 
     &:disabled {
-        color: blue; // todo: color-calc
+        color: grey; // todo: color-calc
     }
 `;
 
