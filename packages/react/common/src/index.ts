@@ -1,1 +1,0 @@
-export type { ThemeColor, ThemeStyle } from './types/themeTypes';

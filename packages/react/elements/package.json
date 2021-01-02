@@ -2,10 +2,13 @@
     "name": "@cx-styled/react-elements",
     "version": "1.0.0",
     "description": "Basic styled react elements such as button, text, select and so on",
-    "main": "src/index.js",
+    "main": "dist/index.js",
+    "module": "dist/index.es.js",
     "repository": "https://github.com/devx-connacx/cx-styled-comps.git",
     "license": "MIT",
     "dependencies": {
+        "react": "17.0.1",
+        "react-dom": "17.0.1",
         "@material-ui/core": "4.11.2",
         "styled-components": "5.2.1"
     }
